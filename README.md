@@ -1,14 +1,14 @@
 # breast-cancer-analysis-using-python
 Breast cancer prediction using logistic regression, EDA, and visualization in Python
-#  Breast Cancer Analysis using Python
+# Breast Cancer Analysis using Python
 
-##  Project Overview
+## Project Overview
 
 This project focuses on analyzing a breast cancer dataset and building a machine learning model to classify tumors as **malignant (cancerous)** or **benign (non-cancerous)** using Python.
 
 
 
-##  Objectives
+## Objectives
 
 * Understand the dataset using Exploratory Data Analysis (EDA)
 * Identify important features affecting tumor diagnosis
@@ -17,7 +17,7 @@ This project focuses on analyzing a breast cancer dataset and building a machine
 
 
 
-##  Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 * Checked data structure and cleaned dataset
 * Analyzed target distribution (benign vs malignant)
@@ -34,7 +34,7 @@ This project focuses on analyzing a breast cancer dataset and building a machine
 
 
 
-##  Model Evaluation
+## Model Evaluation
 
 * Accuracy: **100%**
 * Confusion Matrix: **No misclassifications**
@@ -42,7 +42,7 @@ This project focuses on analyzing a breast cancer dataset and building a machine
 * ROC Curve: **AUC = 1.0 (Excellent performance)**
 
 
-##  Key Insights
+## Key Insights
 
 * Features like **radius, perimeter, area, concavity, and symmetry** are strong predictors
 * Malignant tumors tend to have more irregular shapes and structures
@@ -57,7 +57,7 @@ This project focuses on analyzing a breast cancer dataset and building a machine
 
 
 
-##  Technologies Used
+## Technologies Used
 
 * Python
 * Pandas, NumPy
